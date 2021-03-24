@@ -1,0 +1,19 @@
+Event date,Reported damages,Impact forecast,Category,Name,Impact Forecast Rating
+03/01/2018,14.41,18.35,Winter windstorm,Burglind,Success
+10/02/2020,6.92,4.55,Winter windstorm,Sabine,Success
+02/08/2017,4.21,0,Thunderstorms,,Miss
+04/02/2020,3.02,0.23,Winter windstorm,Petra,Miss
+11/02/2020,1.84,1.39,Winter windstorm,Sabine,Success
+30/05/2018,1.55,0,Thunderstorms,,Miss
+01/08/2017,1.2,3.05,Thunderstorms,,Success
+16/01/2018,0.51,1.12,Winter windstorm,Evi,Success
+12/11/2017,0.27,7.01,Winter windstorm,Numa,False Alarm
+04/03/2017,0.17,6.09,Foehn storm,,False Alarm
+10/07/2017,0.08,75.62,Thunderstorms,,False Alarm
+04/04/2018,0.07,1.47,Foehn storm,,False Alarm
+24/04/2019,0.06,1.1,Foehn storm,,False Alarm
+07/03/2019,0.01,9.02,Foehn storm,,False Alarm
+17/12/2019,0,2.99,Foehn storm,,False Alarm
+11/12/2017,0,44.95,Foehn storm,,False Alarm
+19/10/2019,0,1.61,Foehn storm,,False Alarm
+20/12/2019,0,5.36,Foehn storm,,False Alarm
