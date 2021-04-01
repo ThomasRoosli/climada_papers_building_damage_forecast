@@ -1,6 +1,6 @@
 # Building damage impact forecasting for winter windstorms in Switzerland
 
-[![DOI](https://zenodo.org/badge/329663116.svg)](https://zenodo.org/badge/latestdoi/329663116)
+[![DOI](https://zenodo.org/badge/351223156.svg)](https://zenodo.org/badge/latestdoi/351223156)
 
 This repository contains a jupyter notebook for the code and some data used in a research article. The code replicates the figures and explains software components implemented in [CLIMADA Python](https://github.com/CLIMADA-project/climada_python).
 
